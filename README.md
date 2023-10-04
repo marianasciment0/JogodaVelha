@@ -1,6 +1,8 @@
 <br>
 <div align="center">
-  # Jogo da velha em python usando sockets.
+
+  ## Jogo da velha em python usando sockets.
+
 </div>
 
 <br>
@@ -9,7 +11,7 @@
 ## Sobre
 Na disciplina de Redes de Computadores, o trabalho final consistiu na criação de uma aplicação multiplayer por meio do uso de sockets. A aplicação desenvolvida foi um jogo da velha.
 
-## Instructions for Use
+## Instruções de Uso
 Para executar este projeto, você precisará ter o [Python](https://www.python.org/downloads/) instalado. Com isso, você pode clonar este repositório e instalar as dependências.
 ```sh
   # Clone this repository
@@ -34,5 +36,4 @@ Por padrão, o servidor estará rodando na porta 5000. Se você quiser mudar iss
   # Starting the GUI
   python main.py # remember to have the virtual environment activated
 ```
-
-`Agora seu cliente está concorrendo! Seu oponente pode fazer o mesmo em sua máquina na mesma rede e vocês podem jogar juntos! (ou você pode abrir dois terminais e executar o cliente duas vezes)`
+Agora seu cliente está concorrendo! Seu oponente pode fazer o mesmo em sua máquina na mesma rede e vocês podem jogar juntos! (ou você pode abrir dois terminais e executar o cliente duas vezes)
