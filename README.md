@@ -4,7 +4,6 @@
   ## ❌ Jogo da velha em python usando sockets ⭕
 
 </div>
-
 <br>
 
 ---
