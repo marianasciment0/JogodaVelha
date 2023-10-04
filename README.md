@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 
-  ## Jogo da velha em python usando sockets.
+  ## ❌ Jogo da velha em python usando sockets ⭕
 
 </div>
 
